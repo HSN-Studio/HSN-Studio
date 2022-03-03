@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HSN-Studio
 - 👀 I’m interested in MERN Stack and Python!
-- 🌱 I’m currently learning REACT JS.
+- 🌱 I’m currently learning React JS & Next JS.
 - 💞️ I’m looking to collaborate on Front End Projects!
 - 📫 Contact me at Hassanrafique198@gmail.com
 
