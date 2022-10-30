@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HSN-Studio
-- 👀 I’m interested in MERN Stack and Python!
-- 🌱 I’m currently learning React JS & Next JS.
+- 👀 I’m interested in Full Stack Development!
+- 🌱 I’m currently learning Express JS.
 - 💞️ I’m looking to collaborate on Front End Projects!
-- 📫 Contact me at Hassanrafique198@gmail.com
+- 📫 Contact me at hello@hasni.co
 
 <!---
 HSN-Studio/HSN-Studio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
