@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @HSN-Studio
-- 👀 I’m interested in AI, Machine Learning & Full Stack Development!
-- 🌱 I’m currently learning Python and Express JS.
-- 💞️ I’m looking to collaborate on Front End Projects!
-- 📫 Contact me at hello@hasni.dev
+🚀 Next.js Developer | Full Stack Web Engineer
+Crafting high-performance, SEO-friendly, and scalable web applications with the Next.js ecosystem.
+Passionate about turning design concepts into production-ready experiences using modern tools and best practices.
+
+💻 Tech Stack Highlights:
+
+⚡ Next.js | React | TypeScript
+
+🌐 Node.js | Express | REST & GraphQL APIs
+
+🎨 Tailwind CSS | ShadCN/UI
+
+🗄️ Prisma | Supabase | MongoDB | MySQL
+
+☁️ Vercel | AWS | Docker
+
+🔍 Interests: Performance optimization, SEO, and building user-centric applications.
+📈 Always learning. Always shipping.
 
 <!---
 HSN-Studio/HSN-Studio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
